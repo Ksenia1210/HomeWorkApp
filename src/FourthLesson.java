@@ -110,6 +110,7 @@ public class FourthLesson {
    // метод, чтобы игра закончилась
     //признаюсь, честно, этот метод и методы с диагоналями взят у Вас под копирку, тк я не смогла придумать даже близко
    // что-то подобное, для меня это слишком сложно((
+
     public  static boolean isWinner(char symb){
         int endOfOffset = map.length - DOTS_TO_WIN;
 
