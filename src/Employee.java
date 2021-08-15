@@ -23,6 +23,7 @@ public class Employee {
     // Задание №3. Внутри класса «Сотрудник» написать метод, который выводит информацию об объекте в консоль.
 
     void empData() {
+
         System.out.println(name + " " + post + " " + mail + " " + phone + " " + pay + " " + age);
     }
 }
